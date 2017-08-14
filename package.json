@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Kiro705/tessel-bot#readme",
   "dependencies": {
+    "botkit": "^0.5.7",
     "tessel-av": "^0.19.0"
   }
 }
